@@ -6,7 +6,7 @@ Summary:	Library implementing the Cangjie input method
 Summary(pl.UTF-8):	Biblioteka implementująca metodę wprowadzania znaków Cangjie
 Name:		libcangjie
 Version:	1.3
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries
 #Source0Download: https://github.com/Cangjians/libcangjie/releases
